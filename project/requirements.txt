@@ -1,0 +1,9 @@
+import requests
+import PIL.Image
+from io import BytesIO
+import json
+import certifi
+from textwrap import fill
+from pyfiglet import Figlet
+from urllib.request import urlopen
+import sys
